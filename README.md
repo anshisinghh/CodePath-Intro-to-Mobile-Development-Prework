@@ -4,7 +4,7 @@
 
 ### App Walk-though
 
-<img src=/Users/atwins/Downloads/ezgif.com-gif-maker.gif width=200><br>
+<img src="https://i.imgur.com/a1QRBQW.gif" width=200><br>
 
 
 ### Required User Stories
